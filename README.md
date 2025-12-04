@@ -1,4 +1,4 @@
-#vllm-coco-captioner
+## vllm-coco-captioner
 
 This project performs automatic caption generation for COCO dataset images using a multimodal vision-language model. The generated captions are stored in a structured SQLite database for easy retrieval and evaluation. The system runs efficiently with **vLLM**, enabling fast inference even on a standard Colab T4 GPU.
 
