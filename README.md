@@ -1,6 +1,6 @@
 ## vllm-coco-captioner
 
-This project performs automatic caption generation for COCO dataset images using a multimodal vision-language model. The generated captions are stored in a structured SQLite database for easy retrieval and evaluation. The system runs efficiently with **vLLM**, enabling fast inference even on a standard Colab T4 GPU.
+Local vLLM setup for generating image captions from COCO images and storing them in a database.
 
 ---
 
@@ -10,7 +10,7 @@ The system processes COCO dataset images and automatically generates captions us
 It uses vLLM to run a multimodal model efficiently.
 
 
----
+
 
 ## 🔧 How It Works
 
@@ -30,7 +30,7 @@ Captions are saved into a **SQLite** database containing:
 - Generated caption
 
 
----
+
 In this project i used **VLM** because it  can interpret both images and language.A standard LLM can only process text.We are working with both images and text  VLMs are the correct fit.
 
 
