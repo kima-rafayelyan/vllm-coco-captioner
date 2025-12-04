@@ -44,7 +44,7 @@ Qwen2-VL is a multimodal model capable of processing both images and language. L
 
 SQLite is used because it is serverless and lightweight.
 It creates a local .db file that is easy to export,
-which is perfect for a Colab environment compared to setting up a heavy MySQL server."
+which is perfect for a Colab environment compared to setting up a heavy MySQL server.
 
 
 
