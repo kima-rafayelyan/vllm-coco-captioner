@@ -2,7 +2,7 @@
 
 Local vLLM setup for generating image captions from COCO images and storing them in a database.
 
----
+
 
 ## 🚀 Project Overview
 
@@ -46,7 +46,7 @@ SQLite is used because it is serverless and lightweight.
 It creates a local .db file that is easy to export,
 which is perfect for a Colab environment compared to setting up a heavy MySQL server."
 
----
+
 
 ## 📊 Results
 The system successfully:
