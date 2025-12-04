@@ -54,3 +54,10 @@ The system successfully:
 - Stored them in a structured SQLite database
 - Operated efficiently using **Qwen2-VL-2B** with **vLLM** on a T4 GPU
 
+
+
+| **A woman in a red jacket and black pants is skiing down a snowy slope, holding ski poles and wearing goggles.** |
+| :---: |
+<img width="645" height="430" alt="Screenshot from 2025-12-04 02-42-22" src="https://github.com/user-attachments/assets/567d4009-c100-41de-8dfa-4d5b3c9bf2c5" />
+
+
