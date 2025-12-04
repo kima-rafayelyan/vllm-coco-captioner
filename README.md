@@ -6,15 +6,16 @@ This project performs automatic caption generation for COCO dataset images using
 
 ## 🚀 Project Overview
 
-The pipeline processes COCO images and produces human-like text descriptions using Qwen2-VL.  
-Unlike standard LLMs that can only process text, a Vision-Language Model (VLM) interprets both **visual input + natural language**, making it the correct architecture for this task.
+The system processes COCO dataset images and automatically generates captions using a vision-language model. The generated outputs are stored in a structured SQLite database.
+It uses vLLM to run a multimodal model efficiently.
+
 
 ---
 
 ## 🔧 How It Works
 
 ### 1. Environment Setup
-A local inference environment is configured with **vLLM**, which uses **PagedAttention** to reduce GPU memory waste and accelerate generation. This allows smooth execution on limited-memory GPUs such as **T4**.
+Set up a local environment with vLLM to run the vision model fast because vLLM utilizes  **PagedAttention**, a memory management technique that significantly reduces memory waste accelerates inference.This allows smooth execution on limited-memory GPUs such as **T4**.
 
 ### 2. Model Initialization
 A multimodal model (**Qwen2-VL-2B**) is loaded.  
