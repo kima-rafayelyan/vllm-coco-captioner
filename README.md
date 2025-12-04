@@ -50,7 +50,7 @@ which is perfect for a Colab environment compared to setting up a heavy MySQL se
 
 ## 📊 Results
 The system successfully:
-- Generated coherent captions for COCO images
+- Generated  captions for COCO images
 - Stored them in a structured SQLite database
 - Operated efficiently using **Qwen2-VL-2B** with **vLLM** on a T4 GPU
 
