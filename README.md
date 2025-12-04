@@ -56,14 +56,19 @@ The system successfully:
 
 
 
+
 | **A woman in a red jacket and black pants is skiing down a snowy slope, holding ski poles and wearing goggles.** |
 | :---: |
 <img width="645" height="430" alt="Screenshot from 2025-12-04 02-42-22" src="https://github.com/user-attachments/assets/567d4009-c100-41de-8dfa-4d5b3c9bf2c5" />
 
 
+
+
 | **A blue bicycle is parked on a sidewalk next to a street, with a white van and several other vehicles visible in the background.** |
 | :---: 
 |<img width="645" height="390" alt="Screenshot from 2025-12-04 02-41-44" src="https://github.com/user-attachments/assets/696de92d-fdb3-49e6-a40e-73b940423804" />
+
+
 
 
 | **A person is standing in a kitchen, wearing an apron, and pointing at a table with dough and other kitchen items. The kitchen is equipped with various cooking utensils and appliances, including a stove, sink, and oven. ** |
