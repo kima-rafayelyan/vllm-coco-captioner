@@ -15,7 +15,7 @@ It uses vLLM to run a multimodal model efficiently.
 ## 🔧 How It Works
 
 ### 1. Environment Setup
-Set up a local environment with vLLM to run the vision model fast because vLLM utilizes  **PagedAttention**, a memory management technique that significantly reduces memory waste accelerates inference. This allows smooth execution on limited-memory GPUs such as **T4**.
+Set up a local environment with vLLM to run the vision model fast because vLLM utilizes  **PagedAttention**, a memory management technique that significantly reduces memory waste and accelerates inference. This allows smooth execution on limited-memory GPUs such as **T4**.
 
 ### 2. Model Initialization
 Load a vision-language model (**Qwen2-VL**) that can understand images, not just text.
@@ -31,7 +31,7 @@ Captions are saved into a **SQLite** database containing:
 
 
 
-In this project i used **VLM** because it  can interpret both images and language.A standard LLM can only process text.We are working with both images and text  VLMs are the correct fit.
+In this project i used **VLM** because it  can interpret both images and language. A standard LLM can only process text.We are working with both images and text so VLMs are the correct fit.
 
 
 ## 🧠 Why Qwen2-VL-2B?
